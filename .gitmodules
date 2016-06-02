@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:hiddenpower1/hiddenpower1.github.io.git
+	branch = master
